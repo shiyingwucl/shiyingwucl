@@ -1,3 +1,3 @@
 # Hi there!
 ## this is my profile
-### **bold text here** *italics here*
+### **bold text here** and *italics here*
